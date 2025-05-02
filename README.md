@@ -73,9 +73,6 @@ FROM(
 `Python`: Pandas, OOP, psycopg2
 
 
-## Set up instructions and project guides
-
-For the full detailed step-by-step guide to the project, including installation instructions, ETL pipeline and visuals, please check the [GitHub Wiki](https://github.com/selvatica-36/PowerBI-ecommerce-report/wiki).
 
 ## License information
 
